@@ -1,0 +1,15 @@
+D:\code\github\StyleCopCmd\StyleCopConsole\bin\Release\log4net.dll
+D:\code\github\StyleCopCmd\StyleCopConsole\bin\Release\NAnt.Core.dll
+D:\code\github\StyleCopCmd\StyleCopConsole\bin\Release\net.sf.dotnetcli.dll
+D:\code\github\StyleCopCmd\StyleCopConsole\bin\Release\StyleCop.CSharp.dll
+D:\code\github\StyleCopCmd\StyleCopConsole\bin\Release\StyleCop.CSharp.Rules.dll
+D:\code\github\StyleCopCmd\StyleCopConsole\bin\Release\StyleCop.dll
+D:\code\github\StyleCopCmd\StyleCopConsole\bin\Release\Microsoft.Build.Utilities.v3.5.dll
+D:\code\github\StyleCopCmd\StyleCopConsole\bin\Release\Microsoft.Build.Utilities.v3.5.xml
+D:\code\github\StyleCopCmd\StyleCopConsole\bin\Release\de\Microsoft.Build.Utilities.v3.5.resources.dll
+D:\code\github\StyleCopCmd\StyleCopConsole\obj\Release\StyleCopConsole.csprojResolveAssemblyReference.cache
+D:\code\github\StyleCopCmd\StyleCopConsole\bin\Release\StyleCopCmd.exe.config
+D:\code\github\StyleCopCmd\StyleCopConsole\bin\Release\StyleCopCmd.exe
+D:\code\github\StyleCopCmd\StyleCopConsole\bin\Release\StyleCopCmd.pdb
+D:\code\github\StyleCopCmd\StyleCopConsole\obj\Release\StyleCopCmd.exe
+D:\code\github\StyleCopCmd\StyleCopConsole\obj\Release\StyleCopCmd.pdb
